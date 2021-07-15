@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GS7E2PegrYszdKnbnPqcaYei+4qiNxEzb7sOgxpfbj7w4g2dem4y8F/l9WLFr6uVpyxwYa/oqKULmFIt/IaYsw==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\net\\dept-interview\\DeptInterview\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\germa\\.nuget\\packages\\elasticsearch.net\\7.13.2\\elasticsearch.net.7.13.2.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\nest\\7.13.2\\nest.7.13.2.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

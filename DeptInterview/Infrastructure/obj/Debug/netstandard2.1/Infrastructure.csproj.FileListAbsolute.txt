@@ -1,0 +1,12 @@
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\bin\Debug\netstandard2.1\Logic.dll
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\bin\Debug\netstandard2.1\Logic.pdb
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\Proyectos\net\dept-interview\DeptInterview\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

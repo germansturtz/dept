@@ -1,0 +1,9 @@
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\bin\Debug\netstandard2.1\Logic.deps.json
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\bin\Debug\netstandard2.1\Logic.dll
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\bin\Debug\netstandard2.1\Logic.pdb
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.csproj.AssemblyReference.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfoInputs.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfo.cs
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.csproj.CoreCompileInputs.cache
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.dll
+D:\Proyectos\net\dept-interview\DeptInterview\Logic\obj\Debug\netstandard2.1\Logic.pdb
